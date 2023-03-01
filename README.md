@@ -87,7 +87,7 @@ in the outer wrapper of a class?
 
 ### Exercise 2.10
 * Do you notice any features of the constructor that make it significantly different from the other methods of the class?
-  The constructor doesn't take any parameters and it initializes fields.
+  It initializes fields.
 
 ### Exercise 2.11
 * What do you think is the type of each of the following fields?
